@@ -1,2 +1,2 @@
-# Eduardo Furtado personal website
+# Eduardo Furtado's personal website
 fsoeduardo.github.io
